@@ -1,2 +1,2 @@
-# ML--LAB
+# ML-LAB
 Machine learning laboratory 
